@@ -21,7 +21,7 @@ alt="Profile Image"/>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumhar&theme=github-compact&custom_title=Here%20is%20Mohit's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
+![](https://github-readme-activity-graph.vercel.app/graph?username=kushalmahawar2005&theme=github-compact&custom_title=Here%20is%20Mohit's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
 
 
 

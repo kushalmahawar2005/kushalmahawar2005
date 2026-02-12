@@ -25,13 +25,13 @@ alt="Profile Image"/>
 
 
 
-![GitHub Stats](https://github-read-me-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=tru)
-![GitHub Stats](https://github-read-me-stats.vercel.app/api/streak?username=mohitkumhar&include_all_commits=true&count_private=true&layout=compact&theme=merko)
+![GitHub Stats](https://github-read-me-stats.vercel.app/api?username=kushalmahawar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=tru)
+![GitHub Stats](https://github-read-me-stats.vercel.app/api/streak?username=kushalmahawar2005&include_all_commits=true&count_private=true&layout=compact&theme=merko)
 ![GitHub Stats](https://github-read-me-stats.vercel.app/api/top-langs/?username=kushalmahawar2005&layout=compact&theme=merko&include_all_commits=true&count_private=true)
 
 
 <!--
-| ![](https://github-readme-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mohitkumhar&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+| ![](https://github-readme-stats.vercel.app/api?username=kushalmahawar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=kushalmahawar2005&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalmahawar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
 <br>
@@ -63,9 +63,9 @@ alt="Profile Image"/>
 <br>
 <!-- LeetCode Info section with images -->
 <!-- <div align="center">
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode 500 Days Badge" height="150" width="150" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="150" width="150" /></a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="LeetCode 2025 Annual Badge" height="150" width="150" /></a> -->
+  <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode 500 Days Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="LeetCode 2025 Annual Badge" height="150" width="150" /></a> -->
 
   <details>
     <summary><b>Show More Badges</b></summary>
@@ -86,7 +86,7 @@ alt="Profile Image"/>
 <!-- Trophy for number of problems solved -->
 <h2 align="left">LeetCode Info</h2>  
 <a href="https://leetcode.com/kushalmahawar2005/">
-  <<img align="center" src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode Stats" />
+  <<img align="center" src="https://leetcard.jacoblin.cool/kushalmahawar2005?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 <br><br>
@@ -133,11 +133,11 @@ alt="Profile Image"/>
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/mohitkumhar/" target="_blank">
+  <a href="https://www.linkedin.com/in/kushalmahawar2005/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 
-![](https://komarev.com/ghpvc/?username=mohitkumhar)
+![](https://komarev.com/ghpvc/?username=kushalmahawar2005)
 
 </div>
 

@@ -1,33 +1,145 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kushal Mahawar
-=======================================================================================================================================
+<!-- Main heading -->
+<h2 align="center">Hi 👋! This is Kushal Mahawar</h2>
 
-Full stack Developer
---------------------
+<!-- Introduction -->
+<p align="center">Full stack (MERN) developer from India 🇮🇳</p>
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Kushalmahawar](http://kushalmahawar.in)
-* ✉️  You can contact me at [kushalmahawar71@gmail.com](mailto:kushalmahawar71@gmail.com)
-* 🚀  I'm currently working on [gopimisthanbhandar](http://gopimisthanbhandar.com)
-* 🧠  I'm currently learning Devops and Cloud Computing
-* 👥  I'm looking to collaborate on Full stack Projects, And Issue to Solve
+<!-- About Me section with image on the right -->
+<img align="right" height="180" 
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPYttqOtJGekx-bPfoBF2ArI2nXP-5d-WQQ&s" 
+alt="Profile Image"/>
+</br>
+<h3>About Me</h3>
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-</p>
+<ul>
+  <li>💼 Connect with me on <a href="https://www.linkedin.com/in/kushalmahawar/">LinkedIn</a></li>
+  <li>🤖 Devops enthusias</li>
+  <li>❤️ Love to work in JAVA</li>
+</ul>
+<hr>
+<br>
 
-### Socials
+# 📊 GitHub Stats:
 
-<p align="left"> <a href="https://www.github.com/kushalmahawar2005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/kushalmahawar2005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/kushalmahawar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumhar&theme=github-compact&custom_title=Here%20is%20Mohit's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kushalmahawar2005"><img src="https://github-readme-stats.vercel.app/api?username=kushalmahawar2005&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kushalmahawar2005's GitHub stats" /></a>
 
-<a href="http://www.github.com/kushalmahawar2005"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalmahawar2005&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![GitHub Stats](https://github-read-me-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=tru)
+![GitHub Stats](https://github-read-me-stats.vercel.app/api/streak?username=mohitkumhar&include_all_commits=true&count_private=true&layout=compact&theme=merko)
+![GitHub Stats](https://github-read-me-stats.vercel.app/api/top-langs/?username=kushalmahawar2005&layout=compact&theme=merko&include_all_commits=true&count_private=true)
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/kushalmahawar2005/jay-jewellers" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005&repo=jay-jewellers&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kushalmahawar2005/Gopi misthan bhandar" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005&repo=Gopi misthan bhandar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!--
+| ![](https://github-readme-stats.vercel.app/api?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mohitkumhar&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=kushalmahawar2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+[![](https://visitcount.itsvg.in/api?id=kushalmahawar2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Top Repositories -->
+## Top Repositories
+
+<a href="https://github.com/kushalmahawar2005/Jay-Jewellery.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005&repo=jay-jewellery&theme=buefy" alt="LeetCode Solutions Repo" />
+</a>
+
+<a href="https://github.com/kushalmahawar2005/Java-with-DSA-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005repo=Java-with-DSA-&theme=buefy" alt="Internshala Scraping Repo" />
+</a>
+
+<br><br>
+
+
+<!-- LeetCode Trophy section -->
+<h2 align="center">LeetCode Trophy 🏆</h2> 
+
+<br>
+<!-- LeetCode Info section with images -->
+<!-- <div align="center">
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode 500 Days Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="LeetCode 2025 Annual Badge" height="150" width="150" /></a> -->
+
+  <details>
+    <summary><b>Show More Badges</b></summary>
+    <br>
+    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days LeetCode Badge" height="120" width="120" /></a>
+    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June LeetCode Badge" height="120" width="120" /></a>
+  </details>
+</div>
+
+<br><br>
+
+
+<!-- Trophy for number of problems solved -->
+<h2 align="left">LeetCode Info</h2>  
+<a href="https://leetcode.com/kushalmahawar2005/">
+  <<img align="center" src="https://leetcard.jacoblin.cool/mohitkumhar?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+<br><br>
+
+
+<!-- Technologies and Social Media Icons section -->
+<h3>Technologies and Social Media</h3>
+
+<!-- Icons for technologies using Devicons and images -->
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="Scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="30" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="Seaborn" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" height="30" alt="Django" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="30" alt="Git" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="30" alt="GitHub" />
+  <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" height="30" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="30" alt="CPP" />
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="30" alt="MySQL" />
+  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="30" alt="PostgreSQL" />
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="30" alt="Jupyter" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="30" alt="VS Code" />
+</div>
+
+<br><br>
+
+
+<!-- Social Media Links -->
+<div>
+  <a href="https://www.youtube.com/@mohitmolela" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+  </a>
+
+  <a href="https://www.instagram.com/mohit_prajapat_7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+
+  <a href="mailto:mohitmolela@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohitkumhar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+
+![](https://komarev.com/ghpvc/?username=mohitkumhar)
+
+</div>
+
+
+<br><br>

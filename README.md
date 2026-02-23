@@ -48,8 +48,8 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPYttqOtJGekx-bPfoBF
 
 <p align="center">
 
-<a href="https://github.com/kushalmahawar2005/Jay-Jewellery">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005&repo=Jay-Jewellery&theme=tokyonight"/>
+<a href="https://github.com/kushalmahawar2005/Memory-Search-Engine.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005&repo=Memory=Search-Engine&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/kushalmahawar2005/Java-with-DSA-">

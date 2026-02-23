@@ -8,138 +8,77 @@
 <img align="right" height="180" 
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPYttqOtJGekx-bPfoBF2ArI2nXP-5d-WQQ&s" 
 alt="Profile Image"/>
-</br>
+
 <h3>About Me</h3>
 
 <ul>
-  <li>💼 Connect with me on <a href="https://www.linkedin.com/in/kushalmahawar/">LinkedIn</a></li>
-  <li>🤖 Devops enthusias</li>
+  <li>💼 Connect with me on <a href="https://www.linkedin.com/in/kushalmahawar2005/">LinkedIn</a></li>
+  <li>🤖 DevOps Enthusiast</li>
   <li>❤️ Love to work in JAVA</li>
 </ul>
 <hr>
-<br>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=kushalmahawar2005&theme=github-compact&custom_title=Here%20is%20Kushal's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
+![](https://github-readme-activity-graph.vercel.app/graph?username=kushalmahawar2005&theme=github-compact&custom_title=Here%20is%20Kushal's%20Contribution&hide_border=true&area=true)
 
-
-
-![GitHub Stats](https://github-read-me-stats.vercel.app/api?username=kushalmahawar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=tru)
-![GitHub Stats](https://github-read-me-stats.vercel.app/api/streak?username=kushalmahawar2005&include_all_commits=true&count_private=true&layout=compact&theme=merko)
-![GitHub Stats](https://github-read-me-stats.vercel.app/api/top-langs/?username=kushalmahawar2005&layout=compact&theme=merko&include_all_commits=true&count_private=true)
-
-
-<!--
-| ![](https://github-readme-stats.vercel.app/api?username=kushalmahawar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=kushalmahawar2005&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalmahawar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushalmahawar2005&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushalmahawar2005&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalmahawar2005&layout=compact&theme=dark)
 
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=kushalmahawar2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kushalmahawar2005&theme=radical&margin-w=4)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=kushalmahawar2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Top Repositories -->
 ## Top Repositories
 
-<a href="https://github.com/kushalmahawar2005/Jay-Jewellery.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005&repo=jay-jewellery&theme=buefy" alt="LeetCode Solutions Repo" />
+<a href="https://github.com/kushalmahawar2005/Jay-Jewellery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005&repo=Jay-Jewellery&theme=buefy" />
 </a>
 
 <a href="https://github.com/kushalmahawar2005/Java-with-DSA-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005repo=Java-with-DSA-&theme=buefy" alt="Internshala Scraping Repo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kushalmahawar2005&repo=Java-with-DSA-&theme=buefy" />
 </a>
 
 <br><br>
 
+<!-- LeetCode -->
+<h2 align="center">LeetCode Info 🏆</h2>
 
-<!-- LeetCode Trophy section -->
-<h2 align="center">LeetCode Trophy 🏆</h2> 
-
-<br>
-<!-- LeetCode Info section with images -->
-<!-- <div align="center">
-  <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode 500 Days Badge" height="150" width="150" /></a>
-  <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="150" width="150" /></a>
-  <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="LeetCode 2025 Annual Badge" height="150" width="150" /></a> -->
-
-  <details>
-    <summary><b>Show More Badges</b></summary>
-    <br>
-    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days LeetCode Badge" height="120" width="120" /></a>
-    <a href="https://leetcode.com/kushalmahawar2005/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June LeetCode Badge" height="120" width="120" /></a>
-  </details>
-</div>
-
-<br><br>
-
-
-<!-- Trophy for number of problems solved -->
-<h2 align="left">LeetCode Info</h2>  
 <a href="https://leetcode.com/kushalmahawar2005/">
-  <<img align="center" src="https://leetcard.jacoblin.cool/kushalmahawar2005?theme=dark&font=Akshar&ext=heatmap" alt="LeetCode Stats" />
+  <img align="center" src="https://leetcard.jacoblin.cool/kushalmahawar2005?theme=dark&font=Akshar&ext=heatmap" />
 </a>
 
 <br><br>
 
+<!-- Technologies -->
+<h3>Technologies</h3>
 
-<!-- Technologies and Social Media Icons section -->
-<h3>Technologies and Social Media</h3>
-
-<!-- Icons for technologies using Devicons and images -->
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="Scikit-learn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="30" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="Seaborn" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" height="30" alt="Django" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="30" alt="Git" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="30" alt="GitHub" />
-  <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" height="30" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="30" alt="CPP" />
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="30" alt="MySQL" />
-  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="30" alt="PostgreSQL" />
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="30" alt="Jupyter" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="30" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
 </div>
 
 <br><br>
 
+<!-- Social -->
+<h3>Connect With Me</h3>
 
-<!-- Social Media Links -->
-<div>
-  <a href="https://www.youtube.com/@mohitmolela" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-  <a href="https://www.instagram.com/mohit_prajapat_7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-
-  <a href="mailto:mohitmolela@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/kushalmahawar2005/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/kushalmahawar2005/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 ![](https://komarev.com/ghpvc/?username=kushalmahawar2005)
-
-</div>
-
-
-<br><br>

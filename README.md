@@ -18,7 +18,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPYttqOtJGekx-bPfoBF
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="center">   
 
 <img src="https://github-readme-stats.vercel.app/api?username=kushalmahawar2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
 
@@ -32,7 +32,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPYttqOtJGekx-bPfoBF
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophiess
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kushalmahawar2005&theme=onedark&no-frame=true&margin-w=10"/>
 </p>

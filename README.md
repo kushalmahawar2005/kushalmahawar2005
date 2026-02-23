@@ -73,7 +73,7 @@ alt="Profile Image"/>
 <!-- Social -->
 <h3>Connect With Me</h3>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="kushalmahawar71@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
